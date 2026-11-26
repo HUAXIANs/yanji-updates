@@ -2,14 +2,14 @@
   "product": "yanji-yysls-204521",
   "name": "YanJi",
   "label": "燕叽",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "channel": "stable",
   "file": "YanJi.exe",
   "size": 4465664,
-  "sha256": "847678724090E3D6DA79C4E42A921E5085D91D2DD2E46DBDADF5C23F1090ABD8",
-  "client_build": "5317A63DA713EA2EAC2724F8DAB3AE4A",
+  "sha256": "85FE221B20863F14B93956571A410C3BF505795CBA5A4A55B4942D7140BE2E66",
+  "client_build": "BA9C9C001E140CE3A744907A8EA0EB3F",
   "license_base": "https://api.yanji123.xyz",
-  "download": "https://api.yanji123.xyz/update/download?v=1.4.1",
-  "download_fallback": "https://github.com/HUAXIANs/yanji-updates/releases/download/v1.4.1/YanJi.exe",
-  "built_at": "2026-11-26T15:09:35+08:00"
+  "download": "https://api.yanji123.xyz/update/download?v=1.4.2",
+  "download_fallback": "https://github.com/HUAXIANs/yanji-updates/releases/download/v1.4.2/YanJi.exe",
+  "built_at": "2026-11-26T19:23:33+08:00"
 }
